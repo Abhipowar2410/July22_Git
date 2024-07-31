@@ -1,11 +1,12 @@
-public class simple{
-public static void main(String args[]){
+public class secondtrigger{
+public static void main(String args[])
+{
 
 int a=50;
 int b=90;
 
-System.out.println("First No is:"(a+b));
-System.out.println("Second No is:"(a-b));
+System.out.println("First No is:"+a);
+System.out.println("Second No is:"+b);
 System.out.println("Addition is:"+(a+b));
 
 }
